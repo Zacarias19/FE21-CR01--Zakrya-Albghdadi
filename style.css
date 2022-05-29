@@ -1,0 +1,152 @@
+        body {
+            font-family: sans-serif;
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        .heading {
+            text-align: center;
+            font-weight: bold;
+            font-size: 70px;
+        }
+        
+        .navLinks {
+            text-decoration: none !important;
+            color: white;
+        }
+        
+        .logo {
+            width: 20em;
+        }
+        
+        .text {
+            text-align: center;
+        }
+        
+        .text1 {
+            text-align: center;
+        }
+        
+        .image1 {
+            text-align: right;
+            height: 300px;
+            width: 300px;
+        }
+        
+        .text2 {
+            text-align: center;
+        }
+        
+        .navHeading {
+            padding: 40px 0px
+        }
+        
+        .logoDiv {
+            background-color: rgb(224, 208, 208);
+            display: flex;
+            justify-content: space-around;
+        }
+        
+        .logoImgDiv {
+            padding: 10px 0px 10px 50px;
+        }
+        
+        .navParent {
+            display: flex;
+            margin-top: 0em;
+            justify-content: end;
+            padding-right: 30px;
+            color: rgb(224, 208, 208);
+            font-weight: bold;
+            background-color: rgb(179, 76, 76);
+        }
+        
+        .navChild {
+            list-style-type: none;
+            padding: 8px;
+        }
+        
+        .footer {
+            background-color: rgb(224, 208, 208);
+            margin-top: 60px;
+            display: flex;
+            justify-content: center;
+            padding: 15px;
+            padding-bottom: 0px;
+        }
+        
+        .imag5 {
+            width: 13em;
+        }
+        
+        .footerImg {
+            width: 20em;
+        }
+        
+        .navHeading2 {
+            text-align: center;
+        }
+        
+        .Image11 {
+            width: 100%;
+            height: 100%;
+        }
+        
+        .parentOfDouble {
+            display: flex;
+            width: 50em;
+            justify-content: space-around;
+            margin: 1px auto;
+        }
+        
+        .image2 {
+            width: 100%;
+        }
+        
+        .paragraphDiv {
+            width: 32em;
+            margin: 1px auto;
+        }
+        
+        p {
+            margin: 2px 0px 20px 0px;
+            font-weight: bold;
+            font-size: large;
+            padding: 0px;
+        }
+        
+        .imageE {
+            width: 50em;
+            height: 20em;
+            margin: 2px auto
+        }
+        
+        .parentChild {
+            width: 80%;
+            margin: 10px auto;
+            text-align: center;
+            align-items: center;
+            margin: 2px auto;
+        }
+        
+        .imageo {
+            width: 100%;
+            height: 100%;
+        }
+        
+        .image2 {
+            width: fit-content;
+            margin: 10px auto;
+        }
+        
+        .image {
+            width: 25em;
+            height: 14em;
+            padding-right: 20px;
+        }
+        
+        .class1 {
+            width: 25em;
+            height: 14em;
+            padding-left: 20px
+        }
